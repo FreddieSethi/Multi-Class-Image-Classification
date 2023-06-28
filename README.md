@@ -1,1 +1,18 @@
 # Multi-Class-Image-Classification
+
+This project aims to train a convolutional neural network (CNN) on a dataset of labeled images to predict the labels for unlabeled images. The dataset consists of 60,000 32x32 color images categorized into 10 different classes. The dataset has already been labeled by a group of students.
+
+Task
+
+Your task is to explore various CNN algorithms, implement an appropriate CNN algorithm using TensorFlow/Keras, and conduct empirical evaluation to improve the performance of the algorithm. The specific tasks involved are as follows:
+
+Perform an exploratory analysis of various CNN architectures.
+Implement a CNN algorithm from scratch using existing software libraries like TensorFlow/Keras.
+Conduct at least 10 experiments with different architectures, parameters, hyperparameters, loss functions, regularization techniques, etc., to train a model that achieves at least 70% accuracy on the test set within 10 epochs.
+Present and analyze the results of the experiments in a way understandable by non-technical users.
+Draw conclusions and provide specific recommendations for potential improvements to your CNN model and state-of-the-art methods.
+Dataset
+
+The dataset used for this assessment is the CIFAR-10 dataset, which contains 60,000 32x32 color images in 10 classes. There are 50,000 training images and 10,000 test images. The dataset is available on GitHub via the following link:
+
+GitHub Classroom Assignment - CIFAR-10 Dataset
