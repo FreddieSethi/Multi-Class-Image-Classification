@@ -15,3 +15,12 @@ Draw conclusions and provide specific recommendations for potential improvements
 ## Dataset
 
 The dataset used for this assessment is the CIFAR-10 dataset, which contains 60,000 32x32 color images in 10 classes. There are 50,000 training images and 10,000 test images.
+
+## Intended Learning Outcomes (ILOs)
+
+This project assesses your ability to:
+
+Demonstrate an understanding of the challenges in machine learning that deep learning overcomes.
+Demonstrate an understanding of different deep learning methods and models and their suitable applications.
+Implement deep learning solutions to complex real-world problems using state-of-the-art deep learning software libraries.
+Analyze and optimize the performance of deep learning solutions.
