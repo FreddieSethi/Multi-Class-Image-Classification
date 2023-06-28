@@ -20,7 +20,7 @@ The dataset used for this assessment is the CIFAR-10 dataset, which contains 60,
 
 This project assesses your ability to:
 
-Demonstrate an understanding of the challenges in machine learning that deep learning overcomes.
-Demonstrate an understanding of different deep learning methods and models and their suitable applications.
-Implement deep learning solutions to complex real-world problems using state-of-the-art deep learning software libraries.
-Analyze and optimize the performance of deep learning solutions.
+- Demonstrate an understanding of the challenges in machine learning that deep learning overcomes.
+- Demonstrate an understanding of different deep learning methods and models and their suitable applications.
+- Implement deep learning solutions to complex real-world problems using state-of-the-art deep learning software libraries.
+- Analyze and optimize the performance of deep learning solutions.
