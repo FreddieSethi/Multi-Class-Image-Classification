@@ -1,10 +1,10 @@
 # Multi-Class-Image-Classification
 
-This project aims to train a convolutional neural network (CNN) on a dataset of labeled images to predict the labels for unlabeled images. The dataset consists of 60,000 32x32 color images categorized into 10 different classes. The dataset has already been labeled by a group of students.
+This project aims to train a convolutional neural network (CNN) on a dataset of labeled images to predict the labels for unlabeled images. The dataset consists of 60,000 32x32 color images categorized into 10 different classes.
 
 ## Task
 
-Your task is to explore various CNN algorithms, implement an appropriate CNN algorithm using TensorFlow/Keras, and conduct an empirical evaluation to improve the performance of the algorithm. The specific tasks involved are as follows:
+The task is to explore various CNN algorithms, implement an appropriate CNN algorithm using TensorFlow/Keras and conduct an empirical evaluation to improve the performance of the algorithm. The specific tasks involved are as follows:
 
 Perform an exploratory analysis of various CNN architectures.
 Implement a CNN algorithm from scratch using existing software libraries like TensorFlow/Keras.
